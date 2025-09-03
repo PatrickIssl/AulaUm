@@ -14,7 +14,6 @@ public class QuadradoVazio{
 				}else{
 				  System.out.printf(" ");
 				}
-
 			}
 			System.out.println("");
 		}
